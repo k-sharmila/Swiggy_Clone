@@ -10,7 +10,11 @@ nav img {
     width: 80px;
 }
 
-nav a {
+nav li a {
     font-family: 'Mukta', sans-serif;
-    font-size: xx-small;
+    font-size: smaller;
+}
+
+nav ul.navbar-nav li.nav-item1 {
+    padding-left: 35px;
 }
