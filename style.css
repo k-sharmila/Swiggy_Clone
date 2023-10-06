@@ -29,3 +29,19 @@ nav ul.navbar-nav li.nav-item1 {
 .container.row.row-cols-1 {
     border-color: black;
 }
+
+footer.bd-footer {
+    background-color: black;
+    padding-left: 12%;
+}
+
+li.mb-2 {
+    color: azure;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: small;
+}
+
+h5.footer {
+    color: azure;
+}
