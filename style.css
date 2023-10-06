@@ -25,3 +25,7 @@ nav ul.navbar-nav li.nav-item1 {
     outline: none;
     margin-trim: 2rem;
 }
+
+.container.row.row-cols-1 {
+    border-color: black;
+}
