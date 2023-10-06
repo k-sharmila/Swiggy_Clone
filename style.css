@@ -18,3 +18,10 @@ nav li a {
 nav ul.navbar-nav li.nav-item1 {
     padding-left: 35px;
 }
+
+.card-group {
+    margin-left: 10%;
+    border: none;
+    border-width: 0;
+    margin-right: 5%;
+}
