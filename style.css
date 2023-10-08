@@ -45,3 +45,10 @@ li.mb-2 {
 h5.footer {
     color: azure;
 }
+
+@media only screen and (max-width: 767px) {
+    #img img{
+      height: 200px;
+      width:200px;
+    }
+  }
