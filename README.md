@@ -3,3 +3,6 @@
 
 <h3>Hosted Link :</h3><a href="https://k-sharmila.github.io/Swiggy_Clone/"> Swiggy</a>
 
+<i>Here is the screenshot of the webpage</i>
+<img src="">
+
