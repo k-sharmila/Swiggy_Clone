@@ -4,7 +4,7 @@
 <h3>Hosted Link :</h3><a href="https://k-sharmila.github.io/Swiggy_Clone/"> Swiggy</a>
   
 <i>Here is the screenshot of the webpage</i>
-<br>
+<h1></h1>
 <img src="images/web1.png" height="200px" width="350px"><br>
 <img src="images/web2.png" height="200px" width="350px">
 
